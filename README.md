@@ -1,34 +1,38 @@
 # AI-CSR Monitor - AI Token Tracker for Odoo 19
 
 ## Overview
+### This module is designed for the Odoo Hackathon 2025 CSR & Sustainability Tracker challenge.
+
 
 The AI-CSR Monitor is a comprehensive Odoo 19 module designed to track AI API usage, costs, and Corporate Social Responsibility (CSR) metrics including energy consumption and carbon footprint. This module helps organizations monitor their AI spending, optimize model selection, and measure the environmental impact of their AI operations.
 
 ## Features
 
-### 📊 Comprehensive Monitoring
+### Comprehensive Monitoring
 - **Multi-Provider Support**: Track usage across OpenAI, Anthropic, Google AI, Mistral, Cohere, and more
 - **Real-Time Tracking**: Monitor API calls, token usage, and costs in real-time
 - **Budget Management**: Set monthly budgets with automated alerts
 - **Usage Analytics**: Detailed logs with pivot tables, graphs, and dashboards
 
-### 🌱 CSR & Environmental Tracking
+### CSR & Environmental Tracking
 - **Energy Consumption**: Track energy usage (kWh) per API call
 - **Carbon Footprint**: Calculate CO2 emissions based on data center location
 - **Grid Intensity**: Support for region-specific carbon intensity data
 - **Sustainability Reports**: Monthly CSR reports with environmental impact metrics
 
-### 💰 Cost Optimization
+### Cost Optimization
 - **Performance Tiers**: Models categorized by performance level
 - **Cost Comparison**: Compare pricing across different models
 - **Optimization Recommendations**: API endpoint to suggest cheaper alternatives
 - **Budget Alerts**: Automated email notifications when approaching budget limits
 
-### 🔒 Security & Integration
+### Security & Integration
 - **API Key Encryption**: Secure AES-256 encryption for API keys
 - **Accounting Integration**: Link to Odoo's analytic accounts
 - **User Permissions**: Three-tier access control (User, Manager, Administrator)
 - **RESTful API**: JSON endpoints for external integrations
+
+---
 
 ## Installation
 
@@ -423,7 +427,7 @@ LGPL-3
 
 ## Credits
 
-- **Author**: Your Organization
+- **Author**: Anastasia Kajalic, Eshaal Umair Lodhi, Jeanette Joice Susan, Muhammad Afsah Mumtaz, Adrea Fernandes, Zainab Arslan Dar
 - **Version**: 19.0.1.0.0
 - **Odoo Version**: 19.0
 
