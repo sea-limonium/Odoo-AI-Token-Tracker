@@ -2,6 +2,7 @@
 
 ## Overview
 ### This module is designed for the Odoo Hackathon 2025 CSR & Sustainability Tracker challenge.
+---
 
 
 The AI-CSR Monitor is a comprehensive Odoo 19 module designed to track AI API usage, costs, and Corporate Social Responsibility (CSR) metrics including energy consumption and carbon footprint. This module helps organizations monitor their AI spending, optimize model selection, and measure the environmental impact of their AI operations.
